@@ -18,8 +18,10 @@
   },
   "homepage": "https://github.com/githubworkonand/github-bot#readme",
   "dependencies": {
+    "inquirer": "^7.3.3",
     "jsonfile": "^6.0.1",
     "moment": "^2.29.1",
+    "random": "^2.2.0",
     "simple-git": "^2.21.0"
   }
 }
